@@ -1,6 +1,6 @@
 # Savannahbee Beauty | Email Design & Development
 
-Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-shopify-email-design-dev/">live demo</a>
+Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-beauty-shopify-email-design-dev/">live demo</a>
 
 
 ![savannahbee-beauty-1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/8a62544c-74e5-4f7d-87f2-89138b86d2a9)
