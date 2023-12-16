@@ -1,7 +1,11 @@
 # Savannahbee Beauty | Email Design & Development
 
-Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-beauty-shopify-email-design-dev/">live demo</a>
+<!-- ## Description -->
+I was tasked to design and develop an HTML email campaign for SavannahBee.com, focusing on their top-selling honey, wellness, and beauty products. The primary goals were to boost email-driven revenue and re-engage unengaged leads through strategic automations. Emphasizing conversion optimization was key for the client.
 
+The deliverables included the creation of two distinct emails: one highlighting the top honey products and another showcasing their beauty product lineup. The objective was to showcase not only design prowess but also a creative approach to email content that tells a compelling narrative, ultimately driving product sales. The project aimed to capture the essence of Savannah Bee's offerings and create visually engaging emails to captivate their audience.
+
+Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-beauty-shopify-email-design-dev/">live demo</a>
 
 ![savannahbee-beauty-1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/8a62544c-74e5-4f7d-87f2-89138b86d2a9)
 ![savannahbee-beauty-2](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/9a449b8a-e6cc-49a1-b916-a309bda3c3cf)
@@ -10,12 +14,6 @@ Link to project: <a target="_blank" href="https://henryleestudio.github.io/savan
 ![savannahbee-beauty-5](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/e1090d96-8bab-47a3-91ad-454938c00075)
 ![savannahbee-beauty-6](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/2d557d3c-61fd-4b74-b7a7-d927fe3dc098)
 
-<!-- ## Design -->
-I was tasked to design and develop an HTML email campaign for SavannahBee.com, focusing on their top-selling honey, wellness, and beauty products. The primary goals were to boost email-driven revenue and re-engage unengaged leads through strategic automations. Emphasizing conversion optimization was key for the client.
-<br><br>
-The deliverables included the creation of two distinct emails: one highlighting the top honey products and another showcasing their beauty product lineup. The objective was to showcase not only design prowess but also a creative approach to email content that tells a compelling narrative, ultimately driving product sales. The project aimed to capture the essence of Savannah Bee's offerings and create visually engaging emails to captivate their audience.
-
-<br>
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/101936420/172000054-7df36c23-7223-488f-8ecd-9f6bb4a79ff4.png" width="10%"/>
