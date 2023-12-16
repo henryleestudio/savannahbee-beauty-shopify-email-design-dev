@@ -1,6 +1,6 @@
-# Savannahbee Products | Email Design & Development
+# Savannahbee Beauty | Email Design & Development
 
-Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-shopify-email-design-dev/">live demo</a>
+Link to project: <a target="_blank" href="[https://henryleestudio.github.io/savannahbee-shopify-email-design-dev/](https://henryleestudio.github.io/savannahbee-beauty-shopify-email-design-dev/)">live demo</a>
 
 
 ![savannahbee-beauty-1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/8a62544c-74e5-4f7d-87f2-89138b86d2a9)
@@ -12,9 +12,9 @@ Link to project: <a target="_blank" href="https://henryleestudio.github.io/savan
 ![savannahbee-beauty-6](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/2d557d3c-61fd-4b74-b7a7-d927fe3dc098)
 
 <!-- ## Design -->
-A donation based e-commerce platform that is modern, user-friendly, and mobile-responsive. I designed and developed an easy to navigate website, optimized for all devices. I also incorporated functionality to make it easy for visitors to make secure donations.
+I was tasked to design and develop an HTML email campaign for SavannahBee.com, focusing on their top-selling honey, wellness, and beauty products. The primary goals were to boost email-driven revenue and re-engage unengaged leads through strategic automations. Emphasizing conversion optimization was key for the client.
 <br><br>
-In addition to web development, I created professional brand materials such as the logo, and complete brand identity. This helps to ensure the website not only functions well but also looks trustworthy, visually appealing, and represents the spirit of Central Philadelphia Quaker Meeting in the best possible light.
+The deliverables included the creation of two distinct emails: one highlighting the top honey products and another showcasing their beauty product lineup. The objective was to showcase not only design prowess but also a creative approach to email content that tells a compelling narrative, ultimately driving product sales. The project aimed to capture the essence of Savannah Bee's offerings and create visually engaging emails to captivate their audience.
 
 <br>
 <p align="left">
