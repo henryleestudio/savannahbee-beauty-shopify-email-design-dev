@@ -13,6 +13,8 @@ Link to project: <a target="_blank" href="https://henryleestudio.github.io/savan
 ![savannahbee-beauty-4](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/042df961-6c0c-44a3-b5f6-6d72d5afeb4e)
 ![savannahbee-beauty-5](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/e1090d96-8bab-47a3-91ad-454938c00075)
 ![savannahbee-beauty-6](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/2d557d3c-61fd-4b74-b7a7-d927fe3dc098)
+<img width="1792" alt="Screenshot 2023-12-28 at 11 34 30 AM" src="https://github.com/henryleestudio/savannahbee-beauty-shopify-email-design-dev/assets/101936420/dc52c3ad-91ad-4149-9f95-d641071a3de0">
+
 
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
